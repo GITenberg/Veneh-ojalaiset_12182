@@ -1,0 +1,28 @@
+_repo: Veneh-ojalaiset_12182
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Järnefelt, Arvid
+    aliases:
+    - Jarnefelt, Arvid
+    - Kahila, Hilja
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '4252'
+    url: http://www.gutenberg.org/2009/agents/4252
+    wikipedia: http://fi.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12182'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+- GITenberg
+title: Veneh'ojalaiset
+url: http://www.gutenberg.org/ebooks/12182
